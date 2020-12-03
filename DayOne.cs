@@ -6,7 +6,7 @@ namespace advent_of_code_2020
 {
     class DayOne
     {
-        static void Main(string[] args)
+        /*static void Main(string[] args)
         {
 
             string[] lines = System.IO.File.ReadAllLines(@"C:\Users\domin\source\repos\advent-of-code-2020\day1.txt");
@@ -15,6 +15,7 @@ namespace advent_of_code_2020
             checkingThreeNumbersSumsTo2020(stringList);
 
         }
+        */
 
         public static void checkingTwoNumbersSumsTo2020(List<string> array)
         {
