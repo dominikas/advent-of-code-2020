@@ -7,7 +7,7 @@ using System;
 namespace advent_of_code_2020
 {
     class DayTwo
-    {
+    {/*
         static void Main(string[] args)
         {
 
@@ -15,7 +15,7 @@ namespace advent_of_code_2020
             List<string> stringList = new List<string>(lines);
             CountValidPasswordsPartTwo(stringList);
         }
-
+        */
         public static void CountValidPasswordsPartOne(List<string> stringList)
         {
             var counter = 0;

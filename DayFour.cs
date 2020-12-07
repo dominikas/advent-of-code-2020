@@ -8,6 +8,7 @@ namespace advent_of_code_2020
 {
     class DayFour
     {
+        /*
         static void Main(string[] args)
         {
             string[] Lines = System.IO.File.ReadAllLines(@"C:\Users\domin\source\repos\advent-of-code-2020\day4.txt");
@@ -15,7 +16,7 @@ namespace advent_of_code_2020
             var ValidPassports = CountValidPassportsPartTwo(StringList);
             Console.Write("Valid Pasports " + ValidPassports);
         }
-
+        */
         public static double CountValidPassportsPartOne(List<string> stringList)
         {
             var ElementsCounter = 0;
