@@ -11,7 +11,7 @@ namespace advent_of_code_2020
         static void Main(string[] args)
         {
 
-            string[] lines = System.IO.File.ReadAllLines(@"C:\Users\domin\source\repos\advent-of-code-2020\day2.txt");
+            string[] lines = System.IO.File.ReadAllLines(@"C:\Users\domin\source\repos\advent-of-code-2020\inputs\day2.txt");
             List<string> stringList = new List<string>(lines);
             CountValidPasswordsPartTwo(stringList);
         }

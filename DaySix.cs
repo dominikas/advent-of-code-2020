@@ -9,7 +9,7 @@ namespace advent_of_code_2020
     {/*
         static void Main(string[] args)
         {
-            string[] Lines = System.IO.File.ReadAllLines(@"C:\Users\domin\source\repos\advent-of-code-2020\day6.txt");
+            string[] Lines = System.IO.File.ReadAllLines(@"C:\Users\domin\source\repos\advent-of-code-2020\inputs\day6.txt");
             List<string> StringList = new List<string>(Lines);
 
             var Sum = FindSumOfQuestionsEveryoneAnswer(StringList);

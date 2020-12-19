@@ -1,0 +1,3 @@
+193 too low
+2742 too low
+104196 to high

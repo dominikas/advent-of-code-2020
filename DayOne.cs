@@ -9,7 +9,7 @@ namespace advent_of_code_2020
         /*static void Main(string[] args)
         {
 
-            string[] lines = System.IO.File.ReadAllLines(@"C:\Users\domin\source\repos\advent-of-code-2020\day1.txt");
+            string[] lines = System.IO.File.ReadAllLines(@"C:\Users\domin\source\repos\advent-of-code-2020\inputs\day1.txt");
             List<string> stringList = new List<string>(lines);
             checkingTwoNumbersSumsTo2020(stringList);
             checkingThreeNumbersSumsTo2020(stringList);

@@ -8,15 +8,15 @@ namespace advent_of_code_2020
 {
     class DayFive
     {
-     /*
-        static void Main(string[] args)
-        {
-            string[] Lines = System.IO.File.ReadAllLines(@"C:\Users\domin\source\repos\advent-of-code-2020\day5.txt");
-            List<string> StringList = new List<string>(Lines);
+        /*
+           static void Main(string[] args)
+           {
+               string[] Lines = System.IO.File.ReadAllLines(@"C:\Users\domin\source\repos\advent-of-code-2020\inputs\day5.txt");
+               List<string> StringList = new List<string>(Lines);
 
-            FindMySeatId(StringList);
-        }
-     */
+               FindMySeatId(StringList);
+           }
+        */
         public static void FindHighestSeatId(List<string> stringList)
         {
             var HighestSeatId = 0;

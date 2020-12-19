@@ -8,15 +8,15 @@ namespace advent_of_code_2020
 {
     class DayFourteen
     {
-        
+        /*
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            string[] Lines = System.IO.File.ReadAllLines(@"C:\Users\domin\source\repos\advent-of-code-2020\day14_1.txt");
+            string[] Lines = System.IO.File.ReadAllLines(@"C:\Users\domin\source\repos\advent-of-code-2020\inputs\day14_1.txt");
             List<string> StringList = new List<string>(Lines);
             RunDockingProgram(StringList);
         }
-
+        */
         public static void RunDockingProgram(List<String> StringList)
         {
             var DockingDataList = new List<DockingData>();

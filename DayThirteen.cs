@@ -12,7 +12,7 @@ namespace advent_of_code_2020
         {
             
             Console.WriteLine("Hello World!");
-            string[] Lines = System.IO.File.ReadAllLines(@"C:\Users\domin\source\repos\advent-of-code-2020\day13.txt");
+            string[] Lines = System.IO.File.ReadAllLines(@"C:\Users\domin\source\repos\advent-of-code-2020\inputs\day13.txt");
             List<string> StringList = new List<string>(Lines);
             FindEarliestBus(StringList);
             

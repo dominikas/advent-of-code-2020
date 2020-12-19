@@ -7,13 +7,16 @@ namespace advent_of_code_2020
 {
     class DayTwelve
     {
+        /*
         static void Main(string[] args)
         {
-            string[] Lines = System.IO.File.ReadAllLines(@"C:\Users\domin\source\repos\advent-of-code-2020\day12.txt");
+            
+            string[] Lines = System.IO.File.ReadAllLines(@"C:\Users\domin\source\repos\advent-of-code-2020\inputs\day12.txt");
             List<string> StringList = new List<string>(Lines);
             FindManhattanDistance(StringList);
+            
         }
-
+        */
         public static void FindManhattanDistance(List<String> StringList)
         {
             var InstructionList = ExtractInstructions(StringList);
