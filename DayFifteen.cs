@@ -8,6 +8,7 @@ namespace advent_of_code_2020
 {
     class DayFifteen
     {
+        /*
         static void Main(string[] args)
         {
 
@@ -15,7 +16,7 @@ namespace advent_of_code_2020
             List<string> StringList = new List<string>(lines);
             PlayMemoryGame(StringList);
         }
-
+        */
         public static void PlayMemoryGame(List<string> InputList)
         {
             var InputNumbers = new List<Number>();
